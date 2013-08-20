@@ -1,0 +1,6 @@
+Created Summer 2013 at Altisource Labs with the help of Richard Gu.
+
+Uses Netflix's Astyanax and Spring Framework
+
+A code generator that retrieves column family descriptions from a specified Cassandra keyspace and generates relevant domain, DAO, service, and test files for each column family.
+
